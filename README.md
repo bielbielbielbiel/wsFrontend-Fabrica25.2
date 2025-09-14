@@ -27,7 +27,7 @@ O projeto permite pesquisar, favoritar e visualizar detalhes de cada pokémon.
 ## Deploy
 
 O projeto está disponível em:
-👉 
+👉 [Clique aqui]([https://meu-projeto.vercel.app](https://ws-frontend-fabrica25-2-pearl.vercel.app/))
 
 
 ## Imagens
